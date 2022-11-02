@@ -1,3 +1,6 @@
 for i in range(10):
-    print(i**5)
+<<<<<<< Updated upstream
+    print(i**4)
+
+    
 
